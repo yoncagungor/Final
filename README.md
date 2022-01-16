@@ -128,5 +128,8 @@
      
    ![output](https://github.com/yoncagungor/Final/blob/main/ary_even_int?raw=true)
    
+   <a name="q3"></a>
+   ## Q3. Create a Github repo, explaining your code, the usage of your code, its outputs, and the relevant Jupyter Notebook. 
+   [back to top](#final)
    
-   
+   [Link to my Jupyter Notebook](http://localhost:8888/nbconvert/html/Desktop/MBG6133_Final_YoncaGüngör.ipynb?download=false)

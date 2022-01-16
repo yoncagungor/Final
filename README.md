@@ -38,3 +38,12 @@
     plt.imshow(ary, interpolation= 'nearest')
     plt.show()
       ```
+     >The resulting plot:
+     
+    ![output](https://github.com/yoncagungor/Final/blob/Plots/ary_plot?raw=true)
+    
+## Q2: By using the same matrix:
+
+1. Filter out the odd numbers. Then, if present, convert True/False statements into [0,1] values. Preserve the 100x100 array shape.
+
+

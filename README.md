@@ -132,4 +132,6 @@
    ## Q3. Create a Github repo, explaining your code, the usage of your code, its outputs, and the relevant Jupyter Notebook. 
    [back to top](#final)
    
-   [Link](https://github.com/yoncagungor/Final/blob/main/Jupyter%20notebook.html?download=true)
+   - [Here](https://github.com/yoncagungor/Final/blob/main/MBG6133_Final_YoncaGüngör/MBG6133_Final_YoncaGüngör.md) you can find the file that includes the raw input and outputs.
+   
+   

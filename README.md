@@ -132,6 +132,6 @@
    ## Q3. Create a Github repo, explaining your code, the usage of your code, its outputs, and the relevant Jupyter Notebook. 
    [back to top](#final)
    
-   - [Here](https://github.com/yoncagungor/Final/blob/main/MBG6133_Final_YoncaGüngör/MBG6133_Final_YoncaGüngör.md?raw=true) you can find the file that includes the raw input and outputs.
+   - [Here](https://github.com/yoncagungor/Final/blob/35cf3f938f0c7fb5647c013954732473d172509f/MBG6133_Final_YoncaGu%CC%88ngo%CC%88r/MBG6133_Final_YoncaG%C3%BCng%C3%B6r.md) you can find the file that includes the raw input and outputs.
    
    

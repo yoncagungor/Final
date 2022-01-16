@@ -89,7 +89,7 @@
    ```
         [76, 22, 26, ..., 10, 14, 96]
         
- option and called it ary_even_int
+ I have used the `.astype` option and called it `ary_even_int`.
   ```python
     ary_even_int = even.astype(int)
     print(ary_even_int)
@@ -132,4 +132,4 @@
    ## Q3. Create a Github repo, explaining your code, the usage of your code, its outputs, and the relevant Jupyter Notebook. 
    [back to top](#final)
    
-   [Link to my Jupyter Notebook](http://localhost:8888/nbconvert/html/Desktop/MBG6133_Final_YoncaGüngör.ipynb?download=false)
+   [Link](https://github.com/yoncagungor/Final/blob/main/Jupyter%20notebook.html?download=true)

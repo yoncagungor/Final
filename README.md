@@ -106,11 +106,11 @@
    ```python
    ary.shape 
    ```
-        (100,100) 
+    (100,100) 
    ```python
     ary_even_int.shape
    ```
-        (100,100)
+    (100,100)
     
     
   <a name="q2.2"></a> 

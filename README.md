@@ -134,4 +134,4 @@
    
    - [Here](https://github.com/yoncagungor/Final/blob/35cf3f938f0c7fb5647c013954732473d172509f/MBG6133_Final_YoncaGu%CC%88ngo%CC%88r/MBG6133_Final_YoncaG%C3%BCng%C3%B6r.md) you can find the file that includes the raw input and outputs.
    
-   
+   - Also, [here](https://github.com/yoncagungor/Final/blob/49a37a10d43c8ca8de7e32b16ca160f0af46225b/Jupyter%20Notebook.ipynb) you can find the jupyter notebook code as it is.
